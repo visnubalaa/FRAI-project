@@ -1,0 +1,62 @@
+[
+  {
+    "record_id": "C000B0B3",
+    "created_at": "2026-11-19T16:11:28+05:30",
+    "reviewed": false,
+    "original_complaint": "i have severe cough and corona virus",
+    "status": "fallback_used",
+    "classification": {
+      "category": "other",
+      "priority": "today",
+      "summary": "Symptoms reported; nurse review needed."
+    }
+  },
+  {
+    "record_id": "642954D9",
+    "created_at": "2026-11-19T15:31:08+05:30",
+    "reviewed": false,
+    "original_complaint": "injury",
+    "status": "fallback_used",
+    "classification": {
+      "category": "other",
+      "priority": "today",
+      "summary": "Symptoms reported; nurse review needed."
+    }
+  },
+  {
+    "record_id": "09E06A4F",
+    "created_at": "2026-11-19T15:30:56+05:30",
+    "reviewed": false,
+    "original_complaint": "leg injury",
+    "status": "fallback_used",
+    "classification": {
+      "category": "other",
+      "priority": "today",
+      "summary": "Symptoms reported; nurse review needed."
+    }
+  },
+  {
+    "record_id": "499B2626",
+    "created_at": "2026-11-19T15:30:14+05:30",
+    "reviewed": true,
+    "original_complaint": "severe mental pain and physical stress",
+    "status": "fallback_used",
+    "classification": {
+      "category": "other",
+      "priority": "today",
+      "summary": "Symptoms reported; nurse review needed."
+    }
+  },
+  {
+    "record_id": "C378E3D4",
+    "created_at": "2026-11-19T15:27:17+05:30",
+    "reviewed": false,
+    "original_complaint": "enaku vayathu vali",
+    "status": "fallback_used",
+    "classification": {
+      "category": "other",
+      "priority": "today",
+      "summary": "Symptoms reported; nurse review needed."
+    }
+  }
+]
